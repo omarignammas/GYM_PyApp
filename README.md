@@ -23,4 +23,12 @@ PAGE:6. **Inscription de Séances Hebdomadaires :**
    - Choisissez votre entraineur et la séance parmi des menus déroulants intuitifs.
    - Profitez de contrôles automatisés pour éviter les conflits d'horaires.
 
+Outils utilisee en dev :
+   Python Lib :
+   -Streamlit
+   -Numpy
+   -Pandas
+   Database :
+   -Oracle Apex
+
 NB: Notre application vous offre une immersion complète dans le monde dynamique de IGNITE GYM. Profitez de la personnalisation, des filtres intuitifs et des fonctionnalités de gestion pour tirer le meilleur parti de votre parcours sportif. Rejoignez-nous dans cette aventure et programmez votre réussite! 🏋️‍♂️💪🔥

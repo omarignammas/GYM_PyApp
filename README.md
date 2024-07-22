@@ -23,11 +23,14 @@ PAGE:6. **Inscription de Séances Hebdomadaires :**
    - Choisissez votre entraineur et la séance parmi des menus déroulants intuitifs.
    - Profitez de contrôles automatisés pour éviter les conflits d'horaires.
 
+
 **Outils utilisee en dev :**
+
     *Python Library :*
       - Streamlit
       - Numpy
       - Pandas
+      
     *Database :*
       - Oracle Apex
 

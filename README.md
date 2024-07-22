@@ -24,7 +24,7 @@ PAGE:6. **Inscription de Séances Hebdomadaires :**
    - Profitez de contrôles automatisés pour éviter les conflits d'horaires.
 
 
-**Outils utilisee en dev :**
+*Outils utilisee en dev :*
 
     *Python Library :*
       - Streamlit

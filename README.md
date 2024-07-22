@@ -26,12 +26,12 @@ PAGE:6. **Inscription de Séances Hebdomadaires :**
 
 *Outils utilisee en dev :*
 
-    *Python Library :*
+    Python Library :
       - Streamlit
       - Numpy
       - Pandas
       
-    *Database :*
+    Database :
       - Oracle Apex
 
 NB: Notre application vous offre une immersion complète dans le monde dynamique de IGNITE GYM. Profitez de la personnalisation, des filtres intuitifs et des fonctionnalités de gestion pour tirer le meilleur parti de votre parcours sportif. Rejoignez-nous dans cette aventure et programmez votre réussite! 🏋️‍♂️💪🔥

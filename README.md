@@ -34,4 +34,6 @@ PAGE:6. **Inscription de Séances Hebdomadaires :**
     Database :
       - Oracle Apex
 
+![Screenshot](https://github.com/omarignammas/GYM_PyApp/blob/37ae0c87d230c3f70d2a31c9d9af6f1d785bc608/Screenshot%202024-07-31%20at%2022.03.40.png)
+
 NB: Notre application vous offre une immersion complète dans le monde dynamique de IGNITE GYM. Profitez de la personnalisation, des filtres intuitifs et des fonctionnalités de gestion pour tirer le meilleur parti de votre parcours sportif. Rejoignez-nous dans cette aventure et programmez votre réussite! 🏋️‍♂️💪🔥
